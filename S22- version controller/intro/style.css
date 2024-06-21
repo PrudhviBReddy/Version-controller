@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+img{
+    width: 300px;
+    background: red;
+    color: white;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    background-color: blue;
+    color: yellow;
+    border-radius: 10px;
+}
